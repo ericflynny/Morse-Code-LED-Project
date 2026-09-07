@@ -1,9 +1,9 @@
-#include "morseTranslator.hpp"
+#include "morseSystem.hpp"
 
 int main()
 {
-    MorseTranslator translator;
-    translator.process();
+    MorseSystem system;
+    system.process();
 
     return 0;
 };
