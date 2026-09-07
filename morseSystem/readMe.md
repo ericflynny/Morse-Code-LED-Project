@@ -13,7 +13,7 @@ The following project will:
 5. Repeat steps 1-4 until the user enters `Ctrl+Z` or `Ctrl+C` to stop the program
 
 ## Requirements
-1. Arduino connected to an LED
+1. Arduino or access to https://wokwi.com
 
 ## Command To Build and Run with G++, C++17
 `g++ -std=c++17 *.cpp -o main && ./main`
